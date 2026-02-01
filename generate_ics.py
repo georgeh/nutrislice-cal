@@ -220,12 +220,10 @@ def render_index(
       <li class="school-card" data-slug="{slug}" data-name="{name}">
         <div class="school-card__header">
           <h2>{name}</h2>
-          <a class="ics-link" href="{slug}.ics">Download .ics</a>
         </div>
         <div class="school-card__actions">
-          <a class="button" data-action="google" href="#">Google Calendar</a>
-          <a class="button" data-action="outlook" href="#">Outlook</a>
-          <a class="button" data-action="ical" href="#">iCal</a>
+          <a class="button" data-action="ics" href="#">ICS link</a>
+          <a class="button" data-action="subscribe" href="#">Subscribe</a>
         </div>
       </li>
     """.strip().format(slug=school.slug, name=school.name)
@@ -314,17 +312,6 @@ def render_index(
         color: #111827;
       }}
 
-      .ics-link {{
-        font-size: 0.95rem;
-        color: #2563eb;
-        text-decoration: none;
-        font-weight: 600;
-      }}
-
-      .ics-link:hover {{
-        text-decoration: underline;
-      }}
-
       .school-card__actions {{
         display: flex;
         flex-wrap: wrap;
@@ -350,14 +337,6 @@ def render_index(
         box-shadow: 0 8px 18px rgba(37, 99, 235, 0.2);
       }}
 
-      .button[data-action="outlook"] {{
-        background: #0f6cbd;
-      }}
-
-      .button[data-action="ical"] {{
-        background: #6b7280;
-      }}
-
       footer {{
         margin-top: 36px;
         color: #6b7280;
@@ -371,8 +350,8 @@ def render_index(
         <h1>{title}</h1>
         <p>
           Subscribe once and your calendar will update automatically with the latest
-          {menu_label.lower()} menus. Use the buttons below for the most popular calendar
-          apps or download the .ics file directly.
+          {menu_label.lower()} menus. Use the buttons below for the direct ICS link or a
+          webcal:// subscription.
         </p>
       </header>
       <section class="card">
@@ -391,14 +370,11 @@ def render_index(
       baseUrl.pathname = baseUrl.pathname.replace(/[^/]*$/, "");
       cards.forEach((card) => {{
         const slug = card.dataset.slug;
-        const name = card.dataset.name;
         const icsUrl = new URL(`${{slug}}.ics`, baseUrl).toString();
-        card.querySelector('[data-action="google"]').href =
-          `https://calendar.google.com/calendar/r?cid=${{encodeURIComponent(icsUrl)}}`;
-        card.querySelector('[data-action="outlook"]').href =
-          `https://outlook.live.com/calendar/0/addcal?url=${{encodeURIComponent(icsUrl)}}&name=${{encodeURIComponent(name)}}`;
+        card.querySelector('[data-action="ics"]').href = icsUrl;
         const icsLocation = new URL(icsUrl);
-        card.querySelector('[data-action="ical"]').href = `webcal://${{icsLocation.host}}${{icsLocation.pathname}}`;
+        card.querySelector('[data-action="subscribe"]').href =
+          `webcal://${{icsLocation.host}}${{icsLocation.pathname}}`;
       }});
     </script>
   </body>
