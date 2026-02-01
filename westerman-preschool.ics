@@ -3,4 +3,6 @@ VERSION:2.0
 PRODID:-//a2schools-cal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:Ann Arbor Schools Westerman Preschool Lunch Menu
+X-WR-CALDESC:Lunch menus for Ann Arbor Schools Westerman Preschool.
 END:VCALENDAR

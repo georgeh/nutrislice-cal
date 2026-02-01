@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>School Lunch Calendars</title>
+    <title>Ann Arbor Schools School Lunch Calendars</title>
     <style>
       :root {
         color-scheme: light;
@@ -133,7 +133,7 @@
   <body>
     <main>
       <header>
-        <h1>School Lunch Calendars</h1>
+        <h1>Ann Arbor Schools School Lunch Calendars</h1>
         <p>
           Subscribe once and your calendar will update automatically with the latest lunch
           menus. Use the buttons below for the most popular calendar apps or download the
@@ -502,16 +502,19 @@
       </footer>
     </main>
     <script>
-      const buttons = document.querySelectorAll(".school-card");
-      buttons.forEach((card) => {
+      const cards = document.querySelectorAll(".school-card");
+      const baseUrl = new URL(window.location.href);
+      baseUrl.pathname = baseUrl.pathname.replace(/[^/]*$/, "");
+      cards.forEach((card) => {
         const slug = card.dataset.slug;
         const name = card.dataset.name;
-        const icsUrl = new URL(`${slug}.ics`, window.location.href).toString();
+        const icsUrl = new URL(`${slug}.ics`, baseUrl).toString();
         card.querySelector('[data-action="google"]').href =
           `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(icsUrl)}`;
         card.querySelector('[data-action="outlook"]').href =
           `https://outlook.live.com/calendar/0/addcal?url=${encodeURIComponent(icsUrl)}&name=${encodeURIComponent(name)}`;
-        card.querySelector('[data-action="ical"]').href = `webcal://${new URL(icsUrl).host}${new URL(icsUrl).pathname}`;
+        const icsLocation = new URL(icsUrl);
+        card.querySelector('[data-action="ical"]').href = `webcal://${icsLocation.host}${icsLocation.pathname}`;
       });
     </script>
   </body>
