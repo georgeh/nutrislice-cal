@@ -133,11 +133,20 @@ def parse_menu_day(day: dict) -> MenuDay | None:
     return MenuDay(date=date_value, entrees=entrees, foods=foods)
 
 
+def format_menu_label(menu_type: str) -> str:
+    return menu_type.replace("-", " ").strip().title() or "Menu"
+
+
 def build_calendar(
-    school: School, menu_days: List[MenuDay], district: str, district_name: str
+    school: School,
+    menu_days: List[MenuDay],
+    district: str,
+    district_name: str,
+    menu_type: str,
 ) -> str:
     now = dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
-    calendar_name = f"{district_name} {school.name} Lunch Menu"
+    menu_label = format_menu_label(menu_type)
+    calendar_name = f"{school.name} {menu_label} Menu"
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -145,11 +154,11 @@ def build_calendar(
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{_escape_ics(calendar_name)}",
-        f"X-WR-CALDESC:{_escape_ics(f'Lunch menus for {district_name} {school.name}.')}",
+        f"X-WR-CALDESC:{_escape_ics(f'{menu_label} menus for {school.name}.')}",
     ]
 
     for day in menu_days:
-        summary = day.entrees[0] if day.entrees else "Lunch Menu"
+        summary = day.entrees[0] if day.entrees else f"{menu_label} Menu"
         description = "Full menu:\n" + "\n".join(day.foods)
         uid = f"{school.slug}-{day.date.isoformat()}@{district}"
         lines.extend(
@@ -193,12 +202,19 @@ def generate_calendars(
                 if start_date <= menu_day.date <= end_date:
                     menus[menu_day.date] = menu_day
         menu_days = [menus[date] for date in sorted(menus)]
-        calendar = build_calendar(school, menu_days, district, district_name)
+        calendar = build_calendar(
+            school, menu_days, district, district_name, menu_type
+        )
         write_calendar(output_dir / f"{school.slug}.ics", calendar)
     return schools
 
 
-def render_index(output_dir: Path, schools: List[School], district_name: str) -> None:
+def render_index(
+    output_dir: Path,
+    schools: List[School],
+    district_name: str,
+    menu_type: str,
+) -> None:
     rows = "\n".join(
         """
       <li class="school-card" data-slug="{slug}" data-name="{name}">
@@ -215,7 +231,8 @@ def render_index(output_dir: Path, schools: List[School], district_name: str) ->
     """.strip().format(slug=school.slug, name=school.name)
         for school in schools
     )
-    title = f"{district_name} School Lunch Calendars"
+    menu_label = format_menu_label(menu_type)
+    title = f"{district_name} School {menu_label} Calendars"
     html = f"""<!DOCTYPE html>
 <html lang=\"en\">
   <head>
@@ -353,9 +370,9 @@ def render_index(output_dir: Path, schools: List[School], district_name: str) ->
       <header>
         <h1>{title}</h1>
         <p>
-          Subscribe once and your calendar will update automatically with the latest lunch
-          menus. Use the buttons below for the most popular calendar apps or download the
-          .ics file directly.
+          Subscribe once and your calendar will update automatically with the latest
+          {menu_label.lower()} menus. Use the buttons below for the most popular calendar
+          apps or download the .ics file directly.
         </p>
       </header>
       <section class="card">
@@ -425,7 +442,7 @@ def main() -> int:
         end_date=end_date,
         output_dir=args.output_dir,
     )
-    render_index(args.output_dir, schools, district_name)
+    render_index(args.output_dir, schools, district_name, args.menu_type)
     manifest = {
         "generated_at": dt.datetime.utcnow().isoformat() + "Z",
         "district": args.district,

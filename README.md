@@ -17,7 +17,7 @@ The Nutrislice district is configured via environment variable so forks can poin
 | --- | --- | --- |
 | `NUTRISLICE_DISTRICT` | `a2schools` | District subdomain used by Nutrislice. |
 | `NUTRISLICE_MENU_TYPE` | `lunch` | Menu type slug for Nutrislice. |
-| `NUTRISLICE_DAYS_AHEAD` | `60` | Days ahead to generate. |
+| `NUTRISLICE_DAYS_AHEAD` | `28` | Days ahead to generate. |
 
 ## Local usage
 
@@ -25,7 +25,7 @@ The Nutrislice district is configured via environment variable so forks can poin
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-python generate_ics.py --district a2schools --menu-type lunch --days-ahead 60
+python generate_ics.py --district a2schools --menu-type lunch --days-ahead 28
 ```
 
 The generated calendars will be in `public/`.
