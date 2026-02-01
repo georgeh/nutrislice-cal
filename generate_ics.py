@@ -74,6 +74,24 @@ def fetch_week_menu(district: str, school_slug: str, menu_type: str, date: dt.da
     return resp.json()
 
 
+def fetch_district_name(district: str) -> str:
+    url = f"https://{district}.api.nutrislice.com/menu/api/settings"
+    resp = requests.get(url, timeout=30)
+    resp.raise_for_status()
+    text = resp.text.strip()
+    if not text:
+        return district
+    if text.startswith("{"):
+        data = json.loads(text)
+    else:
+        prefix_end = text.find("(")
+        suffix_start = text.rfind(")")
+        if prefix_end == -1 or suffix_start == -1 or suffix_start <= prefix_end:
+            return district
+        data = json.loads(text[prefix_end + 1 : suffix_start])
+    return data.get("district_name") or district
+
+
 def parse_menu_day(day: dict) -> MenuDay | None:
     menu_items = day.get("menu_items") or []
     if not menu_items:
@@ -115,14 +133,19 @@ def parse_menu_day(day: dict) -> MenuDay | None:
     return MenuDay(date=date_value, entrees=entrees, foods=foods)
 
 
-def build_calendar(school: School, menu_days: List[MenuDay], district: str) -> str:
+def build_calendar(
+    school: School, menu_days: List[MenuDay], district: str, district_name: str
+) -> str:
     now = dt.datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+    calendar_name = f"{district_name} {school.name} Lunch Menu"
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
         "PRODID:-//a2schools-cal//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
+        f"X-WR-CALNAME:{_escape_ics(calendar_name)}",
+        f"X-WR-CALDESC:{_escape_ics(f'Lunch menus for {district_name} {school.name}.')}",
     ]
 
     for day in menu_days:
@@ -152,6 +175,7 @@ def write_calendar(path: Path, calendar_body: str) -> None:
 
 def generate_calendars(
     district: str,
+    district_name: str,
     menu_type: str,
     start_date: dt.date,
     end_date: dt.date,
@@ -169,12 +193,12 @@ def generate_calendars(
                 if start_date <= menu_day.date <= end_date:
                     menus[menu_day.date] = menu_day
         menu_days = [menus[date] for date in sorted(menus)]
-        calendar = build_calendar(school, menu_days, district)
+        calendar = build_calendar(school, menu_days, district, district_name)
         write_calendar(output_dir / f"{school.slug}.ics", calendar)
     return schools
 
 
-def render_index(output_dir: Path, schools: List[School]) -> None:
+def render_index(output_dir: Path, schools: List[School], district_name: str) -> None:
     rows = "\n".join(
         """
       <li class="school-card" data-slug="{slug}" data-name="{name}">
@@ -191,12 +215,13 @@ def render_index(output_dir: Path, schools: List[School]) -> None:
     """.strip().format(slug=school.slug, name=school.name)
         for school in schools
     )
+    title = f"{district_name} School Lunch Calendars"
     html = f"""<!DOCTYPE html>
 <html lang=\"en\">
   <head>
     <meta charset=\"utf-8\" />
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />
-    <title>School Lunch Calendars</title>
+    <title>{title}</title>
     <style>
       :root {{
         color-scheme: light;
@@ -326,7 +351,7 @@ def render_index(output_dir: Path, schools: List[School]) -> None:
   <body>
     <main>
       <header>
-        <h1>School Lunch Calendars</h1>
+        <h1>{title}</h1>
         <p>
           Subscribe once and your calendar will update automatically with the latest lunch
           menus. Use the buttons below for the most popular calendar apps or download the
@@ -344,16 +369,19 @@ def render_index(output_dir: Path, schools: List[School]) -> None:
       </footer>
     </main>
     <script>
-      const buttons = document.querySelectorAll(".school-card");
-      buttons.forEach((card) => {{
+      const cards = document.querySelectorAll(".school-card");
+      const baseUrl = new URL(window.location.href);
+      baseUrl.pathname = baseUrl.pathname.replace(/[^/]*$/, "");
+      cards.forEach((card) => {{
         const slug = card.dataset.slug;
         const name = card.dataset.name;
-        const icsUrl = new URL(`${{slug}}.ics`, window.location.href).toString();
+        const icsUrl = new URL(`${{slug}}.ics`, baseUrl).toString();
         card.querySelector('[data-action="google"]').href =
           `https://calendar.google.com/calendar/r?cid=${{encodeURIComponent(icsUrl)}}`;
         card.querySelector('[data-action="outlook"]').href =
           `https://outlook.live.com/calendar/0/addcal?url=${{encodeURIComponent(icsUrl)}}&name=${{encodeURIComponent(name)}}`;
-        card.querySelector('[data-action="ical"]').href = `webcal://${{new URL(icsUrl).host}}${{new URL(icsUrl).pathname}}`;
+        const icsLocation = new URL(icsUrl);
+        card.querySelector('[data-action="ical"]').href = `webcal://${{icsLocation.host}}${{icsLocation.pathname}}`;
       }});
     </script>
   </body>
@@ -388,14 +416,16 @@ def main() -> int:
     args = parse_args()
     today = dt.date.today()
     end_date = today + dt.timedelta(days=args.days_ahead)
+    district_name = fetch_district_name(args.district)
     schools = generate_calendars(
         district=args.district,
+        district_name=district_name,
         menu_type=args.menu_type,
         start_date=today,
         end_date=end_date,
         output_dir=args.output_dir,
     )
-    render_index(args.output_dir, schools)
+    render_index(args.output_dir, schools, district_name)
     manifest = {
         "generated_at": dt.datetime.utcnow().isoformat() + "Z",
         "district": args.district,
