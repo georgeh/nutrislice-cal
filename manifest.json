@@ -1,0 +1,136 @@
+{
+  "generated_at": "2026-02-01T18:47:23.956065Z",
+  "district": "a2schools",
+  "menu_type": "lunch",
+  "days_ahead": 60,
+  "schools": [
+    {
+      "slug": "abbot",
+      "name": "Abbot"
+    },
+    {
+      "slug": "allen",
+      "name": "Allen"
+    },
+    {
+      "slug": "angell",
+      "name": "Angell"
+    },
+    {
+      "slug": "ann-arbor-open-school",
+      "name": "Ann Arbor Open School "
+    },
+    {
+      "slug": "ann-arbor-steam",
+      "name": "Ann Arbor STEAM"
+    },
+    {
+      "slug": "bach",
+      "name": "Bach "
+    },
+    {
+      "slug": "bryant",
+      "name": "Bryant"
+    },
+    {
+      "slug": "burns-park",
+      "name": "Burns Park"
+    },
+    {
+      "slug": "carpenter",
+      "name": "Carpenter "
+    },
+    {
+      "slug": "clague",
+      "name": "Clague"
+    },
+    {
+      "slug": "community",
+      "name": "Community"
+    },
+    {
+      "slug": "dicken",
+      "name": "Dicken"
+    },
+    {
+      "slug": "eberwhite",
+      "name": "Eberwhite "
+    },
+    {
+      "slug": "forsythe",
+      "name": "Forsythe "
+    },
+    {
+      "slug": "haisley",
+      "name": "Haisley "
+    },
+    {
+      "slug": "huron",
+      "name": "Huron"
+    },
+    {
+      "slug": "king",
+      "name": "King"
+    },
+    {
+      "slug": "lakewood",
+      "name": "Lakewood"
+    },
+    {
+      "slug": "lawton",
+      "name": "Lawton"
+    },
+    {
+      "slug": "logan",
+      "name": "Logan"
+    },
+    {
+      "slug": "mitchell",
+      "name": "Mitchell"
+    },
+    {
+      "slug": "pathways",
+      "name": "Pathways"
+    },
+    {
+      "slug": "pattengill",
+      "name": "Pattengill"
+    },
+    {
+      "slug": "pioneer",
+      "name": "Pioneer"
+    },
+    {
+      "slug": "pittsfield",
+      "name": "Pittsfield"
+    },
+    {
+      "slug": "scarlett",
+      "name": "Scarlett "
+    },
+    {
+      "slug": "skyline",
+      "name": "Skyline"
+    },
+    {
+      "slug": "slauson",
+      "name": "Slauson "
+    },
+    {
+      "slug": "tappan",
+      "name": "Tappan "
+    },
+    {
+      "slug": "thurston",
+      "name": "Thurston "
+    },
+    {
+      "slug": "westerman-preschool",
+      "name": "Westerman Preschool"
+    },
+    {
+      "slug": "wines",
+      "name": "Wines "
+    }
+  ]
+}

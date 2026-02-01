@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>School Lunch Calendars</title>
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: "Inter", "Segoe UI", system-ui, -apple-system, sans-serif;
+        line-height: 1.6;
+        color: #1f2937;
+        background: #f3f4f6;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+      }
+
+      main {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 48px 20px 64px;
+      }
+
+      header {
+        margin-bottom: 32px;
+      }
+
+      h1 {
+        font-size: clamp(2rem, 3vw, 2.75rem);
+        margin-bottom: 12px;
+        letter-spacing: -0.02em;
+      }
+
+      p {
+        margin: 0;
+        color: #4b5563;
+        font-size: 1.05rem;
+      }
+
+      .card {
+        background: #ffffff;
+        border-radius: 16px;
+        padding: 28px;
+        box-shadow: 0 12px 30px rgba(15, 23, 42, 0.08);
+      }
+
+      .school-list {
+        list-style: none;
+        padding: 0;
+        margin: 32px 0 0;
+        display: grid;
+        gap: 18px;
+      }
+
+      .school-card {
+        border: 1px solid #e5e7eb;
+        border-radius: 14px;
+        padding: 20px 22px;
+        background: #f9fafb;
+        display: grid;
+        gap: 16px;
+      }
+
+      .school-card__header {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+      }
+
+      .school-card h2 {
+        font-size: 1.25rem;
+        margin: 0;
+        color: #111827;
+      }
+
+      .ics-link {
+        font-size: 0.95rem;
+        color: #2563eb;
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      .ics-link:hover {
+        text-decoration: underline;
+      }
+
+      .school-card__actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px 16px;
+        border-radius: 999px;
+        background: #1d4ed8;
+        color: #ffffff;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 0.95rem;
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
+      }
+
+      .button:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 8px 18px rgba(37, 99, 235, 0.2);
+      }
+
+      .button[data-action="outlook"] {
+        background: #0f6cbd;
+      }
+
+      .button[data-action="ical"] {
+        background: #6b7280;
+      }
+
+      footer {
+        margin-top: 36px;
+        color: #6b7280;
+        font-size: 0.9rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>School Lunch Calendars</h1>
+        <p>
+          Subscribe once and your calendar will update automatically with the latest lunch
+          menus. Use the buttons below for the most popular calendar apps or download the
+          .ics file directly.
+        </p>
+      </header>
+      <section class="card">
+        <ul class="school-list">
+          <li class="school-card" data-slug="abbot" data-name="Abbot">
+        <div class="school-card__header">
+          <h2>Abbot</h2>
+          <a class="ics-link" href="abbot.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="allen" data-name="Allen">
+        <div class="school-card__header">
+          <h2>Allen</h2>
+          <a class="ics-link" href="allen.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="angell" data-name="Angell">
+        <div class="school-card__header">
+          <h2>Angell</h2>
+          <a class="ics-link" href="angell.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="ann-arbor-open-school" data-name="Ann Arbor Open School ">
+        <div class="school-card__header">
+          <h2>Ann Arbor Open School </h2>
+          <a class="ics-link" href="ann-arbor-open-school.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="ann-arbor-steam" data-name="Ann Arbor STEAM">
+        <div class="school-card__header">
+          <h2>Ann Arbor STEAM</h2>
+          <a class="ics-link" href="ann-arbor-steam.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="bach" data-name="Bach ">
+        <div class="school-card__header">
+          <h2>Bach </h2>
+          <a class="ics-link" href="bach.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="bryant" data-name="Bryant">
+        <div class="school-card__header">
+          <h2>Bryant</h2>
+          <a class="ics-link" href="bryant.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="burns-park" data-name="Burns Park">
+        <div class="school-card__header">
+          <h2>Burns Park</h2>
+          <a class="ics-link" href="burns-park.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="carpenter" data-name="Carpenter ">
+        <div class="school-card__header">
+          <h2>Carpenter </h2>
+          <a class="ics-link" href="carpenter.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="clague" data-name="Clague">
+        <div class="school-card__header">
+          <h2>Clague</h2>
+          <a class="ics-link" href="clague.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="community" data-name="Community">
+        <div class="school-card__header">
+          <h2>Community</h2>
+          <a class="ics-link" href="community.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="dicken" data-name="Dicken">
+        <div class="school-card__header">
+          <h2>Dicken</h2>
+          <a class="ics-link" href="dicken.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="eberwhite" data-name="Eberwhite ">
+        <div class="school-card__header">
+          <h2>Eberwhite </h2>
+          <a class="ics-link" href="eberwhite.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="forsythe" data-name="Forsythe ">
+        <div class="school-card__header">
+          <h2>Forsythe </h2>
+          <a class="ics-link" href="forsythe.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="haisley" data-name="Haisley ">
+        <div class="school-card__header">
+          <h2>Haisley </h2>
+          <a class="ics-link" href="haisley.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="huron" data-name="Huron">
+        <div class="school-card__header">
+          <h2>Huron</h2>
+          <a class="ics-link" href="huron.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="king" data-name="King">
+        <div class="school-card__header">
+          <h2>King</h2>
+          <a class="ics-link" href="king.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="lakewood" data-name="Lakewood">
+        <div class="school-card__header">
+          <h2>Lakewood</h2>
+          <a class="ics-link" href="lakewood.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="lawton" data-name="Lawton">
+        <div class="school-card__header">
+          <h2>Lawton</h2>
+          <a class="ics-link" href="lawton.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="logan" data-name="Logan">
+        <div class="school-card__header">
+          <h2>Logan</h2>
+          <a class="ics-link" href="logan.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="mitchell" data-name="Mitchell">
+        <div class="school-card__header">
+          <h2>Mitchell</h2>
+          <a class="ics-link" href="mitchell.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="pathways" data-name="Pathways">
+        <div class="school-card__header">
+          <h2>Pathways</h2>
+          <a class="ics-link" href="pathways.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="pattengill" data-name="Pattengill">
+        <div class="school-card__header">
+          <h2>Pattengill</h2>
+          <a class="ics-link" href="pattengill.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="pioneer" data-name="Pioneer">
+        <div class="school-card__header">
+          <h2>Pioneer</h2>
+          <a class="ics-link" href="pioneer.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="pittsfield" data-name="Pittsfield">
+        <div class="school-card__header">
+          <h2>Pittsfield</h2>
+          <a class="ics-link" href="pittsfield.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="scarlett" data-name="Scarlett ">
+        <div class="school-card__header">
+          <h2>Scarlett </h2>
+          <a class="ics-link" href="scarlett.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="skyline" data-name="Skyline">
+        <div class="school-card__header">
+          <h2>Skyline</h2>
+          <a class="ics-link" href="skyline.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="slauson" data-name="Slauson ">
+        <div class="school-card__header">
+          <h2>Slauson </h2>
+          <a class="ics-link" href="slauson.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="tappan" data-name="Tappan ">
+        <div class="school-card__header">
+          <h2>Tappan </h2>
+          <a class="ics-link" href="tappan.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="thurston" data-name="Thurston ">
+        <div class="school-card__header">
+          <h2>Thurston </h2>
+          <a class="ics-link" href="thurston.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="westerman-preschool" data-name="Westerman Preschool">
+        <div class="school-card__header">
+          <h2>Westerman Preschool</h2>
+          <a class="ics-link" href="westerman-preschool.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+<li class="school-card" data-slug="wines" data-name="Wines ">
+        <div class="school-card__header">
+          <h2>Wines </h2>
+          <a class="ics-link" href="wines.ics">Download .ics</a>
+        </div>
+        <div class="school-card__actions">
+          <a class="button" data-action="google" href="#">Google Calendar</a>
+          <a class="button" data-action="outlook" href="#">Outlook</a>
+          <a class="button" data-action="ical" href="#">iCal</a>
+        </div>
+      </li>
+        </ul>
+      </section>
+      <footer>
+        Tip: Most calendar apps refresh subscriptions every few hours. If you just
+        subscribed, give it a little time for new menus to appear.
+      </footer>
+    </main>
+    <script>
+      const buttons = document.querySelectorAll(".school-card");
+      buttons.forEach((card) => {
+        const slug = card.dataset.slug;
+        const name = card.dataset.name;
+        const icsUrl = new URL(`${slug}.ics`, window.location.href).toString();
+        card.querySelector('[data-action="google"]').href =
+          `https://calendar.google.com/calendar/r?cid=${encodeURIComponent(icsUrl)}`;
+        card.querySelector('[data-action="outlook"]').href =
+          `https://outlook.live.com/calendar/0/addcal?url=${encodeURIComponent(icsUrl)}&name=${encodeURIComponent(name)}`;
+        card.querySelector('[data-action="ical"]').href = `webcal://${new URL(icsUrl).host}${new URL(icsUrl).pathname}`;
+      });
+    </script>
+  </body>
+</html>
