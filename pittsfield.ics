@@ -7,259 +7,259 @@ X-WR-CALNAME:Pittsfield Lunch Menu
 X-WR-CALDESC:Lunch menus for Pittsfield.
 BEGIN:VEVENT
 UID:pittsfield-2026-02-02@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260202
 SUMMARY:Mashed Potato & Chicken Bowl
 DESCRIPTION:Full menu:\nMashed Potato & Chicken Bowl\nShredded Cheddar Cheese\nSeasoned Broccoli\nVegan Chic'n Nuggets\nMashed Potatoes\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-03@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260203
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nMexican Style Refried Beans\nTortilla Chips\nSalsa\nShredded Lettuce\nShredded Cheddar Cheese\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-04@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260204
 SUMMARY:Chili Dog
 DESCRIPTION:Full menu:\nChili Dog\nShredded Cheddar Cheese\nSweet Potato Fries\nHummus & Tortilla Chips\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-05@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260205
 SUMMARY:Cinnamon French Toast
 DESCRIPTION:Full menu:\nCinnamon French Toast\nChicken Sausage Patty\nStrawberries\nSyrup\nTater Tots\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-06@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260206
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nCraisins\nMarinara Sauce\nSmall Caesar Salad\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-09@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260209
 SUMMARY:Whole Grain Cheese Tortellini Marinara
 DESCRIPTION:Full menu:\nWhole Grain Cheese Tortellini Marinara\nBreadstick\nSavory Green Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-10@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260210
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nMexican Style Refried Beans\nSoft Flour Tortilla\nSalsa\nShredded Lettuce\nShredded Cheddar Cheese\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-11@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260211
 SUMMARY:Crispy Chicken Breast Sandwich
 DESCRIPTION:Full menu:\nCrispy Chicken Breast Sandwich\nWhole Grain Dinner Roll\nShredded Lettuce\nSliced Tomatoes\nAmerican Cheese\nSeasoned Carrots\nHummus & Tortilla Chips\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-12@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260212
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nWhole Grain Waffles\nSyrup\nSweet Potato Fries\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-18@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260218
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nClassic Hamburger\nShredded Lettuce\nSliced Tomatoes\nSweet Potato Tots\nVegan Chic'n Nuggets\nBreadstick\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-19@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260219
 SUMMARY:Cinnamon French Toast
 DESCRIPTION:Full menu:\nCinnamon French Toast\nChicken Sausage Patty\nChilled Peaches\nHash Brown Patty\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-20@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260220
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nMarinara Sauce\nSavory Green Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-23@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260223
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nBreadstick\nSeasoned Broccoli\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-24@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260224
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nMexican Style Refried Beans\nTortilla Chips\nSalsa\nShredded Lettuce\nShredded Cheddar Cheese\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-25@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260225
 SUMMARY:Grilled Cheese Sandwich
 DESCRIPTION:Full menu:\nGrilled Cheese Sandwich\nCampbell's Tomato Soup\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-26@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260226
 SUMMARY:English Muffin with Egg & Cheese
 DESCRIPTION:Full menu:\nEnglish Muffin with Egg & Cheese\nAmerican Cheese\nTater Tots\nVegan Chic'n Nuggets\nBreadstick\nKetchup\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-02-27@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260227
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nSmall Caesar Salad\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-02@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260302
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nBrown Rice\nTeriyaki Sauce\nSavory Green Beans\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-03@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260303
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nMexican Style Refried Beans\nSoft Flour Tortilla\nSalsa\nShredded Lettuce\nShredded Cheddar Cheese\nSeasoned Corn\nTortilla Chips\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-04@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260304
 SUMMARY:Classic Chicken Sandwich
 DESCRIPTION:Full menu:\nClassic Chicken Sandwich\nShredded Lettuce\nSliced Tomatoes\nAmerican Cheese\nSeasoned Carrots\nVegan Chic'n Nuggets\nBreadstick\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-05@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260305
 SUMMARY:Beef Hot Dog
 DESCRIPTION:Full menu:\nBeef Hot Dog\nWaffle Fries\nVegan Chic'n Nuggets\nBreadstick\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-06@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260306
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nMarinara Sauce\nSeasoned Cauliflower\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-09@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260309
 SUMMARY:Whole Grain Cheese Tortellini Alfredo
 DESCRIPTION:Full menu:\nWhole Grain Cheese Tortellini Alfredo\nBreadstick\nSeasoned Cauliflower\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-10@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260310
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nMexican Style Refried Beans\nTortilla Chips\nSalsa\nShredded Lettuce\nShredded Cheddar Cheese\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-11@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260311
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nClassic Hamburger\nShredded Lettuce\nSliced Tomatoes\nSweet Potato Tots\nVegan Chic'n Nuggets\nBreadstick\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-12@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260312
 SUMMARY:Cinnamon French Toast
 DESCRIPTION:Full menu:\nCinnamon French Toast\nChicken Sausage Patty\nChilled Peaches\nHash Brown Patty\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-13@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260313
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nMarinara Sauce\nSavory Green Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-16@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260316
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nBreadstick\nSeasoned Broccoli\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-17@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260317
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nMexican Style Refried Beans\nTortilla Chips\nSalsa\nShredded Lettuce\nShredded Cheddar Cheese\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-18@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260318
 SUMMARY:Grilled Cheese Sandwich
 DESCRIPTION:Full menu:\nGrilled Cheese Sandwich\nCampbell's Tomato Soup\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-19@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260319
 SUMMARY:Mini Turkey Corn Dogs
 DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nTater Tots\nVegan Chic'n Nuggets\nBreadstick\nKetchup\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-20@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260320
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nSmall Caesar Salad\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-23@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260323
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nBrown Rice\nTeriyaki Sauce\nSavory Green Beans\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-24@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260324
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nMexican Style Refried Beans\nSoft Flour Tortilla\nSalsa\nShredded Lettuce\nShredded Cheddar Cheese\nSeasoned Corn\nTortilla Chips\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-25@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260325
 SUMMARY:Classic Chicken Sandwich
 DESCRIPTION:Full menu:\nClassic Chicken Sandwich\nShredded Lettuce\nSliced Tomatoes\nAmerican Cheese\nSeasoned Carrots\nVegan Chic'n Nuggets\nBreadstick\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-26@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260326
 SUMMARY:Beef Hot Dog
 DESCRIPTION:Full menu:\nBeef Hot Dog\nWaffle Fries\nVegan Chic'n Nuggets\nBreadstick\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:pittsfield-2026-03-27@a2schools
-DTSTAMP:20260202T070225Z
+DTSTAMP:20260202T142721Z
 DTSTART;VALUE=DATE:20260327
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nMarinara Sauce\nSeasoned Cauliflower\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nYellow Mustard\nBBQ Sauce
