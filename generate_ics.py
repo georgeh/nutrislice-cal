@@ -403,8 +403,8 @@ def render_index(
         </ul>
       </section>
       <footer>
-        Tip: Most calendar apps refresh subscriptions every few hours. If you just
-        subscribed, give it a little time for new menus to appear.
+        Feedback? <a href="https://github.com/georgeh/ann-arbor-lunch-cal/issues/new">Submit an issue</a>
+        or <a href="https://a2mi.social/@george">contact me on Mastodon</a>.
       </footer>
     </main>
     <script>
