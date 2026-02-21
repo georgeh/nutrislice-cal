@@ -6,148 +6,141 @@ METHOD:PUBLISH
 X-WR-CALNAME:Tappan  Lunch Menu
 X-WR-CALDESC:Lunch menus for Tappan .
 BEGIN:VEVENT
-UID:tappan-2026-02-20@a2schools
-DTSTAMP:20260220T203811Z
-DTSTART;VALUE=DATE:20260220
-SUMMARY:Three Cheese Lasagna
-DESCRIPTION:Full menu:\nThree Cheese Lasagna\nBreadstick\nRoasted Green Beans\nCheese Stuffed Breadsticks\nMargherita Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nPineapple Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\nBBQ Sauce\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing
-END:VEVENT
-BEGIN:VEVENT
 UID:tappan-2026-02-23@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260223
 SUMMARY:Turkey Ham Breakfast Wrap
 DESCRIPTION:Full menu:\nTurkey Ham Breakfast Wrap\nTater Tots\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nStrawberry Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-02-24@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260224
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nMexican Style Refried Beans\nMexican Rice and Beans\nShredded Romaine Lettuce\nFresh Diced Tomatoes\nFresh Sliced Red Onion\nSalsa\nPico de Gallo\nFresh Cilantro\nClassic Cheese Pizza\nItalian Sausage Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nSliced Tomatoes\nCraisins\nStrawberry Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-02-25@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260225
 SUMMARY:Turkey Club
 DESCRIPTION:Full menu:\nTurkey Club\nCheddar Cheese\nMayonnaise\nSweet Potato Fries\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nStrawberry Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-02-26@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260226
 SUMMARY:Chicken Biscuit Sandwich
 DESCRIPTION:Full menu:\nChicken Biscuit Sandwich\nHomemade Broccoli Cheddar Soup\nSide Salad\nMargherita Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nStrawberry Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-02-27@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260227
 SUMMARY:Chicken Penne Pasta
 DESCRIPTION:Full menu:\nChicken Penne Pasta\nSeasoned Cauliflower\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nStrawberry Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-02@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260302
 SUMMARY:Buttermilk Pancakes
 DESCRIPTION:Full menu:\nButtermilk Pancakes\nScrambled Eggs\nPeach Topping\nSyrup\nTater Tots\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-03@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260303
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nMexican Style Refried Beans\nMexican Rice and Beans\nShredded Romaine Lettuce\nFresh Diced Tomatoes\nFresh Sliced Red Onion\nSalsa\nPico de Gallo\nFresh Cilantro\nClassic Cheese Pizza\nItalian Sausage Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nSliced Tomatoes\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-04@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260304
 SUMMARY:Home-style Beef and Bean Chili
 DESCRIPTION:Full menu:\nHome-style Beef and Bean Chili\nTortilla Chips\nFresh Diced Tomatoes\nFresh Sliced Red Onion\nSour Cream\nShredded Cheddar Cheese\nFresh Green Onions\nSeasoned Broccoli\nFreshly Baked Potato Half\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nSliced Tomatoes\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-05@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260305
 SUMMARY:Toasty Three Cheese Sandwich
 DESCRIPTION:Full menu:\nToasty Three Cheese Sandwich\nTomato Soup\nMargherita Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-06@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260306
 SUMMARY:Italian Chicken Parm Sandwich
 DESCRIPTION:Full menu:\nItalian Chicken Parm Sandwich\nSmall Caesar Salad\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-09@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260309
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nWhole Grain Waffle\nHot Honey\nSweet Potato Fries\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nPineapple Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\nBBQ Sauce\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-10@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260310
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nMexican Style Refried Beans\nMexican Rice and Beans\nShredded Romaine Lettuce\nFresh Diced Tomatoes\nFresh Sliced Red Onion\nSalsa\nPico de Gallo\nFresh Cilantro\nClassic Cheese Pizza\nItalian Sausage Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nSliced Tomatoes\nCraisins\nPineapple Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\nBBQ Sauce\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-11@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260311
 SUMMARY:Classic Cheese Pizza
 DESCRIPTION:Full menu:\nBreaded Chicken Drumstick\nCornbread\nChicken Gravy\nCajun Mayo\nMashed Potatoes\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nPineapple Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\nBBQ Sauce\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-12@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260312
 SUMMARY:Chicken & Dumplings
 DESCRIPTION:Full menu:\nChicken & Dumplings\nRoasted Baby Carrot\nMargherita Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nPineapple Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\nBBQ Sauce\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-13@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260313
 SUMMARY:Three Cheese Lasagna
 DESCRIPTION:Full menu:\nThree Cheese Lasagna\nBreadstick\nRoasted Green Beans\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nPineapple Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\nBBQ Sauce\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-16@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260316
 SUMMARY:Turkey Ham Breakfast Wrap
 DESCRIPTION:Full menu:\nTurkey Ham Breakfast Wrap\nTater Tots\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nStrawberry Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-17@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260317
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nMexican Style Refried Beans\nMexican Rice and Beans\nShredded Romaine Lettuce\nFresh Diced Tomatoes\nFresh Sliced Red Onion\nSalsa\nPico de Gallo\nFresh Cilantro\nClassic Cheese Pizza\nItalian Sausage Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nSliced Tomatoes\nCraisins\nStrawberry Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-18@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260318
 SUMMARY:Turkey Club
 DESCRIPTION:Full menu:\nTurkey Club\nCheddar Cheese\nMayonnaise\nSweet Potato Fries\nClassic Cheese Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nStrawberry Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-19@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260319
 SUMMARY:Chicken Biscuit Sandwich
 DESCRIPTION:Full menu:\nChicken Biscuit Sandwich\nHomemade Broccoli Cheddar Soup\nSide Salad\nMargherita Pizza\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nStrawberry Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:tappan-2026-03-20@a2schools
-DTSTAMP:20260220T203811Z
+DTSTAMP:20260221T202950Z
 DTSTART;VALUE=DATE:20260320
 SUMMARY:Chicken Penne Pasta
 DESCRIPTION:Full menu:\nChicken Penne Pasta\nSeasoned Cauliflower\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nRoma Herb Blend\nClassic Hamburger\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nVegan Chic'n Nuggets\nPretzel Rod\nWaffle Fries\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nCraisins\nStrawberry Parfait with Granola\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nCreamy Caesar Dressing\n1% Low-fat Milk\nChocolate Fat Free Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nMustard Packet\nKetchup\nRanch Dressing\nBBQ Sauce
