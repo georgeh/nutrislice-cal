@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T20:59:56.493964Z",
+  "generated_at": "2026-04-14T20:58:40.790263Z",
   "district": "a2schools",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -55,6 +55,10 @@
     {
       "slug": "eberwhite",
       "name": "Eberwhite "
+    },
+    {
+      "slug": "field-trip-meals",
+      "name": "Field Trip Meals"
     },
     {
       "slug": "forsythe",
