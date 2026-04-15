@@ -6,150 +6,143 @@ METHOD:PUBLISH
 X-WR-CALNAME:Haisley  Lunch Menu
 X-WR-CALDESC:Lunch menus for Haisley .
 BEGIN:VEVENT
-UID:haisley-2026-04-14@a2schools
-DTSTAMP:20260414T205831Z
-DTSTART;VALUE=DATE:20260414
-SUMMARY:Beef Taco Meat
-DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nSeasoned Corn\nMexican Style Refried Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
-END:VEVENT
-BEGIN:VEVENT
-UID:haisley-2026-04-15@a2schools
-DTSTAMP:20260414T205831Z
-DTSTART;VALUE=DATE:20260415
-SUMMARY:Crispy Chicken Patty Sandwich
-DESCRIPTION:Full menu:\nCrispy Chicken Patty Sandwich\nShredded Lettuce\nSliced Tomatoes\nAmerican Cheese\nSeasoned Carrots\nImpossible Burger\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
-END:VEVENT
-BEGIN:VEVENT
 UID:haisley-2026-04-16@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260416
-SUMMARY:Cinnamon French Toast
-DESCRIPTION:Full menu:\nCinnamon French Toast\nChicken Sausage Patty\nChilled Peaches\nSyrup\nTater Tots\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
+SUMMARY:Crispy Chicken Patty Sandwich
+DESCRIPTION:Full menu:\nCrispy Chicken Patty Sandwich\nShredded Lettuce\nSliced Tomatoes\nAmerican Cheese\nSeasoned Carrots\nImpossible Burger\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-04-17@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260417
+SUMMARY:Cinnamon French Toast
+DESCRIPTION:Full menu:\nCinnamon French Toast\nChicken Sausage Patty\nChilled Peaches\nSyrup\nTater Tots\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
+END:VEVENT
+BEGIN:VEVENT
+UID:haisley-2026-04-20@a2schools
+DTSTAMP:20260415T205514Z
+DTSTART;VALUE=DATE:20260420
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nGarlic Breadstick\nSmall Caesar Salad\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
-UID:haisley-2026-04-20@a2schools
-DTSTAMP:20260414T205831Z
-DTSTART;VALUE=DATE:20260420
-SUMMARY:Chicken Nuggets
-DESCRIPTION:Full menu:\nChicken Nuggets\nBrown Rice\nTeriyaki Sauce\nSavory Green Beans\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
-END:VEVENT
-BEGIN:VEVENT
 UID:haisley-2026-04-21@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260421
-SUMMARY:Beef Taco Meat
-DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nSeasoned Corn\nMexican Style Refried Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
+SUMMARY:Chicken Nuggets
+DESCRIPTION:Full menu:\nChicken Nuggets\nBrown Rice\nTeriyaki Sauce\nSavory Green Beans\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-04-22@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260422
-SUMMARY:Colby Cheese Omelet
-DESCRIPTION:Full menu:\nColby Cheese Omelet\nGarlic Breadstick\nChicken Sausage Patty\nTater Tots\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
+SUMMARY:Beef Taco Meat
+DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nSeasoned Corn\nMexican Style Refried Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-04-23@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260423
-SUMMARY:Beef Hot Dog on Whole Wheat
-DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat\nYellow Mustard\nCrinkle Cut French Fries\nImpossible Burger\nShredded Lettuce\nSliced Tomatoes\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
+SUMMARY:Colby Cheese Omelet
+DESCRIPTION:Full menu:\nColby Cheese Omelet\nGarlic Breadstick\nChicken Sausage Patty\nTater Tots\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-04-24@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260424
 SUMMARY:Personal Cheese Pizza
 DESCRIPTION:Full menu:\nPersonal Cheese Pizza\nGarlic Breadstick\nSeasoned Cauliflower\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-04-27@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260427
 SUMMARY:Whole Grain Cheese Tortellini Marinara
 DESCRIPTION:Full menu:\nWhole Grain Cheese Tortellini Marinara\nBreadstick\nSeasoned Cauliflower\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-04-28@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260428
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nSeasoned Corn\nMexican Style Refried Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-04-29@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260429
 SUMMARY:Grilled Cheese Sandwich
 DESCRIPTION:Full menu:\nGrilled Cheese Sandwich\nCampbell's Tomato Soup\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-04-30@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260430
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nWhole Grain Waffle\nSyrup\nHash Brown Patty\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-05-01@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260501
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nGarlic Breadstick\nSavory Green Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-05-04@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260504
 SUMMARY:Chicken & Vegetable Dumplings
 DESCRIPTION:Full menu:\nChicken & Vegetable Dumplings\nBrown Rice\nOrange Sauce\nBroccoli\nVegetable Dumplings\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-05-05@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260505
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-05-06@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260506
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nClassic Hamburger\nShredded Lettuce\nSliced Tomatoes\nAmerican Cheese\nYellow Mustard\nSweet Potato Tots\nImpossible Burger\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-05-07@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260507
 SUMMARY:Mini Turkey Corn Dogs
 DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nCrinkle Cut French Fries\nVegan Chic'n Nuggets\nFresh Baked Whole Grain Biscuit\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-05-08@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260508
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nMarinara Sauce\nSavory Green Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-05-11@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260511
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nFresh Baked Whole Grain Biscuit\nSeasoned Broccoli\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:haisley-2026-05-12@a2schools
-DTSTAMP:20260414T205831Z
+DTSTAMP:20260415T205514Z
 DTSTART;VALUE=DATE:20260512
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
+END:VEVENT
+BEGIN:VEVENT
+UID:haisley-2026-05-13@a2schools
+DTSTAMP:20260415T205514Z
+DTSTART;VALUE=DATE:20260513
+SUMMARY:Crispy Chicken Patty Sandwich
+DESCRIPTION:Full menu:\nCrispy Chicken Patty Sandwich\nShredded Lettuce\nSliced Tomatoes\nAmerican Cheese\nSeasoned Carrots\nImpossible Burger\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 END:VCALENDAR
