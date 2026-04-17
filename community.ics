@@ -6,150 +6,150 @@ METHOD:PUBLISH
 X-WR-CALNAME:Community Lunch Menu
 X-WR-CALDESC:Lunch menus for Community.
 BEGIN:VEVENT
-UID:community-2026-04-16@a2schools
-DTSTAMP:20260416T205326Z
-DTSTART;VALUE=DATE:20260416
-SUMMARY:Cheese Stuffed Breadsticks
-DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nMarinara Sauce\nRoma Herb Blend\nHot Pepper Flakes\nGarlic & Herb Spice Blend\nSmall Caesar Salad\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
-END:VEVENT
-BEGIN:VEVENT
 UID:community-2026-04-17@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260417
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nBuffalo Popcorn Chicken\nMacaroni and Cheese\nRoasted Broccoli\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-04-20@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260420
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nMarinara Sauce\nRoma Herb Blend\nHot Pepper Flakes\nGarlic & Herb Spice Blend\nSmall Caesar Salad\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-04-21@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260421
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nBeef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nMexican Style Refried Beans\nFiesta Brown Rice\nShredded Romaine Lettuce\nSalsa\nPico de Gallo\nFresh Cilantro\nClassic Hamburger\nTater Tots\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-04-22@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260422
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nChicken Tenders\nWhole Grain Waffle\nSyrup\nTater Tots\nClassic Hamburger\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-04-23@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260423
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nMarinara Sauce\nRoma Herb Blend\nHot Pepper Flakes\nGarlic & Herb Spice Blend\nSmall Caesar Salad\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-04-24@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260424
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nBuffalo Popcorn Chicken\nMacaroni and Cheese\nRoasted Broccoli\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-04-27@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260427
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nMarinara Sauce\nRoma Herb Blend\nHot Pepper Flakes\nGarlic & Herb Spice Blend\nSmall Caesar Salad\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-04-28@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260428
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nBeef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nMexican Style Refried Beans\nFiesta Brown Rice\nShredded Romaine Lettuce\nSalsa\nPico de Gallo\nFresh Cilantro\nClassic Hamburger\nTater Tots\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-04-29@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260429
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nChicken Tenders\nWhole Grain Waffle\nSyrup\nTater Tots\nClassic Hamburger\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-04-30@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260430
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nMarinara Sauce\nRoma Herb Blend\nHot Pepper Flakes\nGarlic & Herb Spice Blend\nSmall Caesar Salad\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-05-01@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260501
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nBuffalo Popcorn Chicken\nMacaroni and Cheese\nRoasted Broccoli\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-05-04@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260504
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nMarinara Sauce\nRoma Herb Blend\nHot Pepper Flakes\nGarlic & Herb Spice Blend\nSmall Caesar Salad\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-05-05@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260505
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nBeef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nMexican Style Refried Beans\nFiesta Brown Rice\nShredded Romaine Lettuce\nSalsa\nPico de Gallo\nFresh Cilantro\nClassic Hamburger\nTater Tots\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-05-06@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260506
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nChicken Tenders\nWhole Grain Waffle\nSyrup\nTater Tots\nClassic Hamburger\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-05-07@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260507
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nMarinara Sauce\nRoma Herb Blend\nHot Pepper Flakes\nGarlic & Herb Spice Blend\nSmall Caesar Salad\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-05-08@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260508
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nBuffalo Popcorn Chicken\nMacaroni and Cheese\nRoasted Broccoli\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-05-11@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260511
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nMarinara Sauce\nRoma Herb Blend\nHot Pepper Flakes\nGarlic & Herb Spice Blend\nSmall Caesar Salad\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-05-12@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260512
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nBeef Taco Meat\nChicken Tinga Street Tacos\nSoft Flour Tortilla\nTortilla Chips\nQueso Blanco Cheese Sauce\nMexican Style Refried Beans\nFiesta Brown Rice\nShredded Romaine Lettuce\nSalsa\nPico de Gallo\nFresh Cilantro\nClassic Hamburger\nTater Tots\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-05-13@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260513
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nChicken Tenders\nWhole Grain Waffle\nSyrup\nTater Tots\nClassic Hamburger\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 BEGIN:VEVENT
 UID:community-2026-05-14@a2schools
-DTSTAMP:20260416T205326Z
+DTSTAMP:20260417T205116Z
 DTSTART;VALUE=DATE:20260514
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nClassic Pepperoni Pizza\nMarinara Sauce\nRoma Herb Blend\nHot Pepper Flakes\nGarlic & Herb Spice Blend\nSmall Caesar Salad\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nAssorted 100% Fruit Juice\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
+END:VEVENT
+BEGIN:VEVENT
+UID:community-2026-05-15@a2schools
+DTSTAMP:20260417T205116Z
+DTSTART;VALUE=DATE:20260515
+SUMMARY:Classic Hamburger
+DESCRIPTION:Full menu:\nBuffalo Popcorn Chicken\nMacaroni and Cheese\nRoasted Broccoli\nClassic Hamburger\nTater Tots\nShredded Romaine Lettuce\nFresh Sliced Red Onion\nSliced Tomatoes\nClassic American Cheeseburger\nSpicy Chicken Sandwich\nPretzel Rod\nVegan Chic'n Nuggets\nBerry Parfait with Granola\nCraisins\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Spinach Leaves\nSliced Cucumbers\nFresh Grape Tomatoes\nCorn\nFresh Carrots\nGarbanzo Beans\nFresh Celery Sticks\nFresh Broccoli Florets\nFresh Whole Fruit\nAssorted Chilled Fruit\nLight Ranch Dressing\nLight Italian Dressing\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Low Fat Milk\nLow Fat Lactose-Free Milk\nKetchup\nYellow Mustard\nBBQ Sauce
 END:VEVENT
 END:VCALENDAR
