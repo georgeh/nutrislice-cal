@@ -7,21 +7,21 @@ X-WR-CALNAME:Field Trip Meals Lunch Menu
 X-WR-CALDESC:Lunch menus for Field Trip Meals.
 BEGIN:VEVENT
 UID:field-trip-meals-2026-05-04@a2schools
-DTSTAMP:20260428T210925Z
+DTSTAMP:20260429T210904Z
 DTSTART;VALUE=DATE:20260504
 SUMMARY:Turkey and Cheese Sandwich
 DESCRIPTION:Full menu:\nTurkey and Cheese Sandwich\nMayonnaise\nMustard Packet\nSunbutter & Grape Jelly Sandwich\nCheddar Goldfish Crackers\nFresh Vegetable Crudite Cup\nCraisins\nFresh Whole Fruit\nLow Fat Lactose-Free Milk\nLactose Free Chocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:field-trip-meals-2026-05-11@a2schools
-DTSTAMP:20260428T210925Z
+DTSTAMP:20260429T210904Z
 DTSTART;VALUE=DATE:20260511
 SUMMARY:Turkey and Cheese Sandwich
 DESCRIPTION:Full menu:\nTurkey and Cheese Sandwich\nMayonnaise\nMustard Packet\nSunbutter & Grape Jelly Sandwich\nCheddar Goldfish Crackers\nFresh Vegetable Crudite Cup\nCraisins\nFresh Whole Fruit\nLow Fat Lactose-Free Milk\nLactose Free Chocolate Low Fat Milk
 END:VEVENT
 BEGIN:VEVENT
 UID:field-trip-meals-2026-05-18@a2schools
-DTSTAMP:20260428T210925Z
+DTSTAMP:20260429T210904Z
 DTSTART;VALUE=DATE:20260518
 SUMMARY:Turkey and Cheese Sandwich
 DESCRIPTION:Full menu:\nTurkey and Cheese Sandwich\nMayonnaise\nMustard Packet\nSunbutter & Grape Jelly Sandwich\nCheddar Goldfish Crackers\nFresh Vegetable Crudite Cup\nCraisins\nFresh Whole Fruit\nLow Fat Lactose-Free Milk\nLactose Free Chocolate Low Fat Milk
