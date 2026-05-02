@@ -6,134 +6,127 @@ METHOD:PUBLISH
 X-WR-CALNAME:Lakewood Lunch Menu
 X-WR-CALDESC:Lunch menus for Lakewood.
 BEGIN:VEVENT
-UID:lakewood-2026-05-01@a2schools
-DTSTAMP:20260501T205720Z
-DTSTART;VALUE=DATE:20260501
-SUMMARY:Cheesy French Bread Pizza
-DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nGarlic Breadstick\nSavory Green Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nLow Fat Lactose-Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
-END:VEVENT
-BEGIN:VEVENT
 UID:lakewood-2026-05-04@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260504
 SUMMARY:Chicken & Vegetable Dumplings
 DESCRIPTION:Full menu:\nChicken & Vegetable Dumplings\nBrown Rice\nOrange Sauce\nBroccoli\nVegetable Dumplings\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-06@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260506
 SUMMARY:Classic Hamburger
 DESCRIPTION:Full menu:\nClassic Hamburger\nShredded Lettuce\nSliced Tomatoes\nAmerican Cheese\nYellow Mustard\nSweet Potato Tots\nImpossible Burger\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-07@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260507
 SUMMARY:Mini Turkey Corn Dogs
 DESCRIPTION:Full menu:\nMini Turkey Corn Dogs\nCrinkle Cut French Fries\nVegan Chic'n Nuggets\nBreadstick\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-08@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260508
 SUMMARY:Cheese Stuffed Breadsticks
 DESCRIPTION:Full menu:\nCheese Stuffed Breadsticks\nMarinara Sauce\nSavory Green Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-11@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260511
 SUMMARY:Macaroni and Cheese
 DESCRIPTION:Full menu:\nMacaroni and Cheese\nFresh Baked Whole Grain Biscuit\nSeasoned Broccoli\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-12@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260512
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-13@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260513
 SUMMARY:Crispy Chicken Patty Sandwich
 DESCRIPTION:Full menu:\nCrispy Chicken Patty Sandwich\nShredded Lettuce\nSliced Tomatoes\nAmerican Cheese\nSeasoned Carrots\nImpossible Burger\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-14@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260514
 SUMMARY:Roll\, Turkey Ham & Cheese Fun Lunch
 DESCRIPTION:Full menu:\nRoll\, Turkey Ham & Cheese Fun Lunch\nMustard Packet\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-15@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260515
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nGarlic Breadstick\nSmall Caesar Salad\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-18@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260518
 SUMMARY:Popcorn Chicken
 DESCRIPTION:Full menu:\nPopcorn Chicken\nBrown Rice\nOrange Sauce\nTeriyaki Sauce\nSavory Green Beans\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-19@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260519
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-20@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260520
 SUMMARY:Colby Cheese Omelet
 DESCRIPTION:Full menu:\nColby Cheese Omelet\nCheddar Goldfish Crackers\nChicken Sausage Patty\nTater Tots\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-21@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260521
 SUMMARY:Beef Hot Dog on Whole Wheat
 DESCRIPTION:Full menu:\nBeef Hot Dog on Whole Wheat\nYellow Mustard\nCrinkle Cut French Fries\nImpossible Burger\nShredded Lettuce\nSliced Tomatoes\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-22@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260522
 SUMMARY:Personal Cheese Pizza
 DESCRIPTION:Full menu:\nPersonal Cheese Pizza\nGarlic Breadstick\nSeasoned Cauliflower\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-26@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260526
 SUMMARY:Beef Taco Meat
 DESCRIPTION:Full menu:\nBeef Taco Meat\nTortilla Chips\nSalsa\nShredded Lettuce\nCreamy Cheddar Cheese Sauce\nMexican Style Refried Beans\nSeasoned Corn\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-27@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260527
 SUMMARY:Grilled Cheese Sandwich
 DESCRIPTION:Full menu:\nGrilled Cheese Sandwich\nCampbell's Tomato Soup\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-28@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260528
 SUMMARY:Chicken Tenders
 DESCRIPTION:Full menu:\nChicken Tenders\nWhole Grain Waffle\nSyrup\nHash Brown Patty\nVegan Chic'n Nuggets\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Celery Sticks\nFresh Grape Tomatoes\nFresh Carrots\nGarbanzo Beans\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
 END:VEVENT
 BEGIN:VEVENT
 UID:lakewood-2026-05-29@a2schools
-DTSTAMP:20260501T205720Z
+DTSTAMP:20260502T204801Z
 DTSTART;VALUE=DATE:20260529
 SUMMARY:Cheesy French Bread Pizza
 DESCRIPTION:Full menu:\nCheesy French Bread Pizza\nGarlic Breadstick\nSavory Green Beans\nSunbutter & Grape Jelly Sandwich\nMuffin\, Goldfish & Yogurt Fun Lunch\nFresh Broccoli Florets\nSliced Cucumbers\nFresh Carrots\nCorn\nFresh Whole Fruit\nAssorted Chilled Fruit\nCraisins\nSkim Milk\n1% Low-fat Milk\nChocolate Low Fat Milk\nStrawberry Fat Free Milk\nKetchup\nRanch Dressing\nBBQ Sauce\nLight Italian Dressing
