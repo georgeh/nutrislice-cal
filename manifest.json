@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T21:06:50.653468Z",
+  "generated_at": "2026-05-08T21:05:21.558457Z",
   "district": "a2schools",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -119,6 +119,26 @@
     {
       "slug": "slauson",
       "name": "Slauson "
+    },
+    {
+      "slug": "summer-breakfast-bagged",
+      "name": "Summer Breakfast Bagged"
+    },
+    {
+      "slug": "summer-elementary-menu",
+      "name": "Summer Elementary Menu"
+    },
+    {
+      "slug": "summer-lunch-bagged",
+      "name": "Summer Lunch Bagged"
+    },
+    {
+      "slug": "summer-secondary-breakfast",
+      "name": "Summer Secondary Breakfast"
+    },
+    {
+      "slug": "summer-secondary-menu",
+      "name": "Summer Secondary Menu"
     },
     {
       "slug": "tappan",
