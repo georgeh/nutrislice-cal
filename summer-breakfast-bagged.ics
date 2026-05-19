@@ -3,6 +3,6 @@ VERSION:2.0
 PRODID:-//a2schools-cal//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Summer Breakfast Bagged Lunch Menu
-X-WR-CALDESC:Lunch menus for Summer Breakfast Bagged.
+X-WR-CALNAME:Summer Bagged Meals Lunch Menu
+X-WR-CALDESC:Lunch menus for Summer Bagged Meals.
 END:VCALENDAR

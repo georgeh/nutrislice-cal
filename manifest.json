@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T21:15:06.802138Z",
+  "generated_at": "2026-05-19T21:22:15.325176Z",
   "district": "a2schools",
   "menu_type": "lunch",
   "days_ahead": 28,
@@ -122,22 +122,14 @@
     },
     {
       "slug": "summer-breakfast-bagged",
-      "name": "Summer Breakfast Bagged"
+      "name": "Summer Bagged Meals"
     },
     {
       "slug": "summer-elementary-menu",
       "name": "Summer Elementary Menu"
     },
     {
-      "slug": "summer-lunch-bagged",
-      "name": "Summer Lunch Bagged"
-    },
-    {
       "slug": "summer-secondary-breakfast",
-      "name": "Summer Secondary Breakfast"
-    },
-    {
-      "slug": "summer-secondary-menu",
       "name": "Summer Secondary Menu"
     },
     {
